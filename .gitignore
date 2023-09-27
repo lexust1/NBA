@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints/
+/articles/
+/backups/
+/csv/
+/history/
+/models/
+/pkls/
+.env
+.idea
+
